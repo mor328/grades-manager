@@ -1,19 +1,29 @@
-# grades-manager-vue-q
+# grades-manager
+
+A Project for calculating averages of the university degree made with Firebase,Vue and Quasar.
+
+## Author
+
+[Mor Shitrit](https://github.com/mor328)
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
